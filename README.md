@@ -1,2 +1,2 @@
 # recipe-app-api
-recipe api source code
+recipe app API using DRF, Docker & Travis CI.
